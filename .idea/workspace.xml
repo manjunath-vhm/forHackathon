@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7c1c64de-4f33-4552-a81a-50492424a7df" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/Features/login.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/Features/login.feature" afterDir="false" />
-    </list>
+    <list default="true" id="7c1c64de-4f33-4552-a81a-50492424a7df" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/Features/login.feature">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -73,30 +71,6 @@
             <path>
               <item name="qmetry" type="b2602c69:ProjectViewProjectNode" />
               <item name="qmetry" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qmetry" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qmetry" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qmetry" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qmetry" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qmetry" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qmetry" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="qmetry" type="b2602c69:ProjectViewProjectNode" />
-              <item name="qmetry" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="Features" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,12 +151,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535630987808</updated>
-      <workItem from="1535630999441" duration="1338000" />
+      <workItem from="1535630999441" duration="1938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1338000" />
+    <option name="totallyTimeSpent" value="1938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -230,7 +204,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/Features/login.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
