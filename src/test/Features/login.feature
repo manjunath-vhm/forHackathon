@@ -1,7 +1,7 @@
 @ADOReLogin
 Feature: ADORe login
 
-  @ADOReSwitchLanguage
+  @ADOReSwitchLanguage @Regression
   Scenario Outline: Client switches language
     Given client is at the <start_language> ADORe page
     When client switch to <destination_language>
